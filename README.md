@@ -1,2 +1,0 @@
-# vitalnetai
-final year projecr
